@@ -26,4 +26,5 @@ pytest
 
 ## ✍️ Yazar
 
-Kodland
+Bilge Ada
+
